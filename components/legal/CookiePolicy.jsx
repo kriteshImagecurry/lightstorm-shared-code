@@ -180,7 +180,7 @@ const CookiePolicy = () => {
           purposes in the following table:
         </p>
         <div className="mt-3 mb-3">
-          <table className="table">
+          <table className="table [&_tr]:border [&_td]:p-4">
             <tbody>
               <tr>
                 <td>
