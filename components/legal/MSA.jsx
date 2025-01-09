@@ -8,24 +8,22 @@ const MSA = () => {
         <div className="space-y-4">
           <p className="">
             This Master Services Agreement, the Service Schedule(s), the
-            Acceptable Use Policy and Service Order Form(s)"/ "Customer
-            Application Form(s)/subscription on the Polarin Platform" or
-            "SOF"/"CAF/subscription on the Polarin Platform") set out the terms
-            and conditions that apply to Customer's access to and use of the
-            Services and forms an agreement (this "Agreement") between
-            Lightstorm Data Centers Private Limited and its Affiliates (to the
-            extent designated on a Service Order Form) (the providing entity
-            being "LDC"); and the Customer (detailed in the table below) and its
-            Affiliates (to the extent designated on a Service Order Form).&nbsp;
+            Acceptable Use Policy and Service Order Forms/ SOF/ subscription
+            plan under Polarin Platform set out the terms and conditions that
+            apply to Customer’s access to and use of the Services and forms an
+            agreement (this “Agreement”) between Service Provider and its
+            Affiliates (to the extent designated on a Service Order Form) (the
+            providing entity being “Service Provider”); and the Customer and its
+            Affiliates (to the extent designated on a Service Order Form).
           </p>
           <p className="">
-            LDC and the Customer may be referred to in this Agreement
-            individually as a "<b>Party</b>" and/or collectively as the "
+            Service Provider and the Customer may be referred to in this
+            Agreement individually as a “Party” and/or collectively as the
             <b>Parties</b>."
           </p>
           <p className="">
             The Parties that the Customer executes this Agreement by clicking on
-            "I accept" button which shall be construed as equivalent to a
+            “I accept” button which shall be construed as equivalent to a
             physical signature made by the Customer and any Agreement executed
             online on platform shall be construed as a legally binding
             agreement.
@@ -54,7 +52,7 @@ const MSA = () => {
             <span className="font-bold ">(a)"Affiliate"</span>
             shall mean any entity which directly or indirectly controls, is
             controlled by, or is under common control with the subject entity;
-            and "control" means direct or indirect ownership or control of more
+            and “control” means direct or indirect ownership or control of more
             than fifty percent (50%) of the voting interests of the subject
             entity.
           </p>
@@ -71,7 +69,7 @@ const MSA = () => {
             shall mean any economic or financial sanctions administered by: (a)
             the Office of Foreign Assets Control of the Department of the
             Treasury of the United States of America; (b) the US State
-            Department; (c) any other agency of the US government; (d) the
+            Department; (c) any other agency of the US’S government; (d) the
             United Nations; and (e) the European Union or any member state
             thereof;
           </p>
@@ -97,18 +95,18 @@ const MSA = () => {
             </span>
             means all intellectual and industrial property rights and interests
             (including common law rights and interests) including, without
-            limitation:
+            limitation
           </p>
           <li aria-level="4" className="">
             <span className="">
               patents, trademarks, service marks, copyright, registered designs,
-              trade names, symbols titles and logos;&nbsp;
+              trade names, symbols titles and logos;
             </span>
           </li>
           <li aria-level="4" className="">
             <span className="">
               patent applications and applications to register trademarks,
-              service marks and designs;&nbsp;
+              service marks and designs;
             </span>
           </li>
           <li aria-level="4" className="">
@@ -146,12 +144,12 @@ const MSA = () => {
             </span>
           </p>
           <p className="">
-            (l)<strong className=""> “Party”</strong> shall mean LDC or Customer
-            individually.
+            (l)<strong className=""> “Party”</strong> shall mean Service
+            Provider or Customer individually.
           </p>
           <p className="">
-            (m) <strong className="">“Parties”</strong> LDC and the Customer
-            collectively.
+            (m) <strong className="">“Parties”</strong> Service Provider and the
+            Customer collectively.
           </p>
           <p className="">
             (n) <strong className="">“Payment Date”</strong> shall have the
@@ -162,19 +160,19 @@ const MSA = () => {
             meaning as set forth in Clause 16.1.
           </p>
           <p className="">
-            (p) <strong className=""> “Renewal Service Term”</strong> shall have
+            (p) <strong className=""> “Renewal Service Term”</strong>shall have
             the meaning as set forth in Clause 3.1.
           </p>
           <p className="">
             (q)
             <strong className="">
-              “<b className="">RMA</b>”{" "}
+              “<b className="">RMA</b>”
             </strong>
             shall have the meaning as set forth in Clause 14.1.
           </p>
           <p className="">
             (r)
-            <strong className=""> “Sanctioned Person”</strong> means any person,
+            <strong className=""> “Sanctioned Person”</strong>means any person,
             organization or vessel (i) designated on the Office of Foreign
             Assets Control of the Department of the Treasury of the United
             States of America list of “Specially Designated Nationals and
@@ -186,10 +184,10 @@ const MSA = () => {
             foregoing; (iv) located within or operating from any country or
             other territory subject to a general export, import, financial or
             investment embargo under any Economic Sanctions Law; or (v)
-            otherwise targeted under any Economic Sanctions Law
+            otherwise targeted under any Economic Sanctions Law.
           </p>
           <p className="">
-            (s)<strong className=""> “Services”</strong>shall mean network as a
+            (s)<strong className=""> “Services”</strong> shall mean network as a
             services (NaaS) online platform providing cloud connectivity
             services including connectivity from clouds to datacenters and vice
             versa, datacenter connectivity services and other services
@@ -217,8 +215,8 @@ const MSA = () => {
             <span className="">
               shall mean any written request for Services, or for the change of
               Services, setting out the details of the Services to be provided
-              by LDC as per its standard format, as may be amended from time to
-              time to the Customer.{" "}
+              by Service Provider as per its standard format, as may be amended
+              from time to time to the Customer.
             </span>
           </p>
           <p className="">
@@ -226,11 +224,10 @@ const MSA = () => {
             set forth in Clause 19.4.
           </p>
           <p className="">
-            (x){" "}
+            (x)
             <strong className="">
-              {" "}
               “<b className="">Service Creation Date</b>”
-            </strong>{" "}
+            </strong>
             shall have the meaning as set forth in Clause 4.1.
           </p>
           <p className="">
@@ -253,13 +250,13 @@ const MSA = () => {
             In this Agreement, unless the context otherwise requires:
           </p>
           <p className="">
-            (a) The term "Clause" refers to the specified Clause of this
+            (a) The term “Clause” refers to the specified Clause of this
             Agreement;
           </p>
           <p className="">
-            (b) The words "directly or indirectly" mean directly or indirectly
+            (b)The words “directly or indirectly” mean directly or indirectly
             through 1 (one) or more intermediary persons or through contractual
-            or other legal arrangements, and "direct or indirect" shall have the
+            or other legal arrangements, and “direct or indirect” shall have the
             correlative meanings;
           </p>
           <p className="">
@@ -285,11 +282,11 @@ const MSA = () => {
             used to interpret the provisions of this Agreement;
           </p>
           <p className="">
-            (g) The words "include" and "including" shall be deemed to be
-            followed by the phrase "without limitation";
+            (g) The words “include” and “including” shall be deemed to be
+            followed by the phrase “without limitation”.
           </p>
           <p className="">
-            (h) The terms "herein", "hereof", "hereto", "hereunder" and words of
+            (h) The terms “herein”, “hereof”, “hereto”, “hereunder” and words of
             similar purport refer to this Agreement as a whole;
           </p>
           <p className="">
@@ -304,8 +301,8 @@ const MSA = () => {
             integral part of this Agreement;
           </p>
           <p className="">
-            (l) Any reference to any period commencing "from" a specified day or
-            date and "till" or "until" a specified day or date shall include
+            (l) Any reference to any period commencing “from” a specified day or
+            date and “till” or “until” a specified day or date shall include
             both such days or dates;
           </p>
           <p className="">
@@ -328,9 +325,9 @@ const MSA = () => {
             </li>
           </ol>
           <p className="">
-            (o) Time is of the essence in the performance of the Parties'
+            (o) Time is of the essence in the performance of the Parties’
             respective obligations. If any time period specified herein is
-            extended, such extended time shall also be of the essence;
+            extended, such extended time shall also be of the essence.
           </p>
           <p className="">
             (p) Any word or phrase defined in the body of this Agreement as
@@ -348,8 +345,8 @@ const MSA = () => {
         </h3>
         <div id="text_block-683-2046" className="space-y-4">
           <p className="">
-            2.1.&nbsp; Services may be ordered by the Customer or an Affiliate
-            of the Customer from Service Provider or its Affiliates under this
+            2.1. Services may be ordered by the Customer or an Affiliate of the
+            Customer from Service Provider or its Affiliates under this
             Agreement. The Customer or the purchasing Affiliate of the Customer
             will be specified in the SOF/ subscription plan on the Polarin
             Platform and will be jointly and severally liable with the Customer
@@ -361,8 +358,8 @@ const MSA = () => {
             to this Agreement with the Affiliate of Service Provider then
             references to “Customer” and “Service Provider” herein shall be
             deemed references to the ordering Customer Affiliate or service
-            Provider Affiliate providing Services, as the case may be. Prior to
-            the Go- Live Date (defined below), Service Provider reserves the
+            Provider Affiliate providing Services, as the case may be.   Prior
+            to the Go- Live Date (defined below), Service Provider reserves the
             right to reject any SOF/ subscription on the Polarin Platform in its
             commercially reasonable discretion. Service Provider ’S provision of
             the Services is subject to the continuing availability of capacity
@@ -371,13 +368,13 @@ const MSA = () => {
             <br />
           </p>
           <p className="">
-            2.2.&nbsp;The Parties further agree and acknowledge that in the
-            event, SOF/ is executed/ subscription plan is taken on Polarin
-            Platform by an Affiliate of Service Provider , then such Affiliate
-            alone shall be bound by the terms of this Agreement and it shall be
-            deemed to have agreed to the provisions of this Agreement and deemed
-            to have executed a separate binding master services agreement with
-            the Customer incorporating the terms of this Agreement. For the
+            2.2. The Parties further agree and acknowledge that in the event,
+            SOF/ is executed/ subscription plan is taken on Polarin Platform by
+            an Affiliate of Service Provider , then such Affiliate alone shall
+            be bound by the terms of this Agreement and it shall be deemed to
+            have agreed to the provisions of this Agreement and deemed to have
+            executed a separate binding master services agreement with the
+            Customer incorporating the terms of this Agreement. For the
             avoidance of doubt, the Parties agree and acknowledge that if an
             Affiliate of Service Provider executes an SOF/ takes subscription
             plan on Polarin Platform with the Customer then such Affiliate shall
@@ -388,7 +385,7 @@ const MSA = () => {
             <br />
           </p>
           <p className="">
-            2.3&nbsp; The Parties further agree and acknowledge that in case SOF
+            2.3 The Parties further agree and acknowledge that in case SOF
             subscription plan on Polarin Platform is executed/ taken by the
             Customer and/or its Affiliates with the Affiliates of Service
             Provider, then the Customer and/or its Affiliates shall be bound by
@@ -404,19 +401,20 @@ const MSA = () => {
         <h3 className="text-2xl font-semibold mb-4 ">3.Term</h3>
         <p className="mb-4 ">
           3.1. This Agreement will commence on the Effective Date and will
-          remain in effect until expiry of last SOF/ CAF place by the Customer
-          on LDC, unless otherwise terminated as set out in this Agreement ("
-          <b>Term</b>"). Subject to Clause 8 below, the Service will be provided
-          for the term specified in the relevant SOF/ CAF/subscription taken on
-          Polarin Platform ("<b>Initial Service Term</b>"). Any Service being
-          provided at the timeof termination of this Agreement will continue
-          upon the terms andconditions of this Agreement until the end of the
-          applicable Service Term. Subject to Clause 2 or Clause 8 below, unless
-          one of the Parties provides written notice of termination to the other
-          Party on or before ninety (90) days prior to the expiration of a
-          Service Term, the term of the related Service will automatically
-          continue in full force on an annual basis (each an "
-          <b>Renewal Service Term</b>"). The "<b>Service Term</b>" will be
+          remain in effect until expiry of last SOF place by the Customer on
+          Service Provider/ term of subscription plan taken on Polarin Platform,
+          unless otherwise terminated as set out in this Agreement{" "}
+          <b>(“Term”)</b> . Subject to Clause 8 below, the Service will be
+          provided for the term specified in the relevant SOF/ subscription plan
+          taken on Polarin Platform <b>(“Initial Service Term”)</b> . Any
+          Service being provided at the time of termination of this Agreement
+          will continue upon the terms and conditions of this Agreement until
+          the end of the applicable Service Term. Subject to Clause 2 or Clause
+          8 below, unless one of the Parties provides written notice of
+          termination to the other Party on or before ninety (90) days prior to
+          the expiration of a Service Term, the term of the related Service will
+          automatically continue in full force on an annual basis (each an
+          <b> “Renewal Service Term”</b>). The <b>“Service Term”</b> will be
           defined as the Initial Service Term and Renewal Service Term,
           collectively.
         </p>
@@ -425,11 +423,11 @@ const MSA = () => {
       <div id="4. Service Activation" className="mt-8 space-y-4">
         <h3 className="text-2xl font-semibold mb-4 ">4. Service Activation</h3>
         <p className="mb-4 ">
-          Service Provider will notify the Customer (in writing or
+          4.1. Service Provider will notify the Customer (in writing or
           electronically) that the Service is activated and is available for use
           when the port cross connection is completed or 30 days from the date
           on which Service is ordered on the Platform whichever is earlier{" "}
-          <b>(“Go Live Date”)</b> . Service Provider may incrementally deliver
+          <b>(“Go Live Date”)</b>. Service Provider may incrementally deliver
           individual Services or locations specified in a SOF/ term of the
           subscription plan taken on Polarin Platform, when ready, which may
           result in different Go Live Dates for each incrementally delivered
@@ -447,7 +445,7 @@ const MSA = () => {
             Polarin Platform.
           </p>
           <p className="">
-            5.2 . Unless otherwise agreed in the SOF /subscription terms of
+            5.2 Unless otherwise agreed in the SOF /subscription terms of
             Polarin Platform. The Customer can choose either the reserved plan
             or PAYG plan on the Polarin Platform
           </p>
@@ -472,30 +470,29 @@ const MSA = () => {
             delivery.
           </p>
           <p className="">
-            5.4. &nbsp; &nbsp; If a monthly subscription fees (“MSF”) is
-            specified in a SOF / terms of subscription plan taken on Polarin
-            Platform, Service Provider or its Affiliate shall invoice the
-            Customer for MSC as per the terms set out in the SOF / terms of
-            subscription plan taken on Polarin Platform..
+            5.4. If a monthly subscription fees <b>(“MSF”)</b> is specified in a
+            SOF / terms of subscription plan taken on Polarin Platform, Service
+            Provider or its Affiliate shall invoice the Customer for MSC as per
+            the terms set out in the SOF / terms of subscription plan taken on
+            Polarin Platform..
           </p>
           <p className="">
-            5.5.&nbsp; &nbsp; Subject to the plan opted by the Customer as
-            mentioned in clause 5.2, Service Provider or its Affiliate shall
-            begin to invoice the MSF from the Go Live Date. For Services where
-            there is no need of port cross connection, the billing will start
-            instantly. The invoice start dates for individual Service under the
-            SOF/ terms of Polarin Platform may differ if Services under the SOF
-            /terms of Polarin Platform are provisioned on different Go Live
-            Date. Invoices for partial months shall be pro-rated.
+            5.4. Subject to the plan opted by the Customer as mentioned in
+            clause 5.2, Service Provider or its Affiliate shall begin to invoice
+            the MSF from the Go Live Date. For Services where there is no need
+            of port cross connection, the billing will start instantly. The
+            invoice start dates for individual Service under the SOF/ terms of
+            Polarin Platform may differ if Services under the SOF /terms of
+            Polarin Platform are provisioned on different Go Live Date. Invoices
+            for partial months shall be pro-rated.
           </p>
           <p className="">
-            5.6. &nbsp; The base price shall be stated in SOF / subscription
-            plan taken on Polarin Platform. All the payment shall be made to a
-            Service Provider’s or its Affiliate’s designated account
-            electronically.
+            5.5. The base price shall be stated in SOF / subscription plan taken
+            on Polarin Platform. All the payment shall be made to a Service
+            Provider’s or its Affiliate’s designated account electronically.
           </p>
           <p className="">
-            5.7. Usage based charges or professional fee charges will be
+            5.6. Usage based charges or professional fee charges will be
             invoiced in the billing period after such Services have been
             provided. All payments made by the Customer under this Agreement
             will be made without any deduction or withholding for or on account
@@ -503,12 +500,12 @@ const MSA = () => {
             VAT, customs and import taxes or other taxes, fees, surcharges,
             and/or recovery charges, however designated, imposed upon or
             authorized as a result of Service Provider ’s sale of the Services
-            (collectively, “Taxes”). Service Provider may adjust charges for a
-            Renewal Service Term, upon thirty (30) days written notice to the
-            Customer.
+            (collectively, <b>“Taxes”</b>). Service Provider may adjust charges
+            for a Renewal Service Term, upon thirty (30) days written notice to
+            the Customer.
           </p>
           <p className="">
-            5.8. If any taxing or governmental authority asserts that the
+            5.7. If any taxing or governmental authority asserts that the
             Customer should or should have made a deduction for withholding for
             or on account of any Taxes with respect to all or a portion of any
             payment made under this Agreement, the Customer agrees to increase
@@ -525,16 +522,16 @@ const MSA = () => {
       <div className="mt-8 space-y-4">
         <h3 className="text-2xl font-semibold mb-4 ">6. Payment</h3>
         <p className="mb-4 ">
-          6.1. All invoices are due upon receipt, payable by the Customer's
+          6.1. All invoices are due upon receipt, payable by the Customer’s
           electronic transfer in available funds. If any undisputed amount due
-          on any invoice is not received by LDC within thirty (30) days of the
-          invoice date ("
-          <b>Payment Date</b>"), then, in addition to any other remedies
-          available to LDC (including but not limited to those set out in Clause
-          8), LDC may in its sole discretion charge interest, at the rate of the
-          lesser of one and one-half percent (1.5%) per month or the maximum
-          rate allowable under law, commencing as of the Payment Date through
-          the date of LDC's receipt of payment.&nbsp;&nbsp;
+          on any invoice is not received by Service Provider within thirty (30)
+          days of the invoice date <b>(“Payment Date”)</b>, then, in addition to
+          any other remedies available to Service Provider (including but not
+          limited to those set out in Clause 8), Service Provider may in its
+          sole discretion charge interest, at the rate of the lesser of one and
+          one-half percent (1.5%) per month or the maximum rate allowable under
+          law, commencing as of the Payment Date through the date of Service
+          Provider’s receipt of payment.
         </p>
         <p className="mb-4 ">
           6.2. Except for bona fide disputes submitted in accordance with Clause
@@ -654,65 +651,68 @@ const MSA = () => {
               with respect to Service Provider.
             </p>
           </div>
-          <div>
-            <p>
-              If the Customer terminates for any other reason, it must provide
-              thirty (30) days written notice, and termination shall be subject
-              to payment of early termination charges in Clause 8.3 below.
-            </p>
+
+          <div className="">
+            If the Customer terminates for any other reason, it must provide
+            thirty (30) days written notice, and termination shall be subject to
+            payment of early termination charges in Clause 8.3 below.
           </div>
           <div className="mt-4">8.3. If:</div>
 
-          <ol className="list-[lower-alpha] pl-8 space-y-2 text-white/70 ">
-            <li className="font-normal ">
+          <div className="pl-6 space-y-2">
+            <p>
               8.3.1. the Customer cancels or terminates a Service under this
               Agreement or any Service prior to the end of the Service Term
               without cause or for convenience; or
+            </p>
+            <p>
+              8.3.2. Service Provider terminates this Agreement and/or any
+              Service(s) prior to the end of the Service Term under Clauses
+              8.1.1, 8.1.2 or 8.1.3,
+            </p>
+          </div>
+          <p className="mt-4">
+            then in addition to any other rights or remedies available to
+            Service Provider under this Agreement, at law, or in equity, the
+            Customer will pay Service Provider an early termination charge (as
+            liquidated damages and not as a penalty) equal to:
+          </p>
+          <ol className="list-[lower-alpha] pl-8 space-y-2">
+            <li className="font-normal ">
+              all unpaid, waived, discounted and/or amortized UF associated with
+              the terminated Service(s); plus
             </li>
-            <li className="font-normal text-white/70 ">
-              Service Provider terminates this Agreement and/or any Service(s)
-              prior to the end of the Service Term under Clauses 8.1.1, 8.1.2 or
-              8.1.3, then in addition to any other rights or remedies available
-              to Service Provider under this Agreement, at law, or in equity,
-              the Customer will pay Service Provider an early termination charge
-              (as liquidated damages and not as a penalty) equal to:
-              <ul className="space-y-4 text-white/70 ">
-                <li>
-                  a) all unpaid, waived, discounted and/or amortized UF
-                  associated with the terminated Service(s); plus{" "}
-                </li>
-                <li>
-                  b) all MSF for in the terminated Service(s) for all remaining
-                  months of the unexpired balance of the Service Term of the
-                  terminated Service(s); plus{" "}
-                </li>
-                <li>
-                  c) to the extent greater than the amount in (a) and (b) above,
-                  the aggregate fees, charges, expenses, and taxes payable by
-                  Service Provider (including, but not limited to, liquidated
-                  damages, and disconnection, early cancellation or termination
-                  charges payable to third parties) in connection with the
-                  cancelled or terminated Service(s).
-                </li>
-              </ul>
+            <li className="font-normal ">
+              all MSF for in the terminated Service(s) for all remaining months
+              of the unexpired balance of the Service Term of the terminated
+              Service(s); plus
+            </li>
+            <li className="font-normal ">
+              to the extent greater than the amount in (a) and (b) above, the
+              aggregate fees, charges, expenses, and taxes payable by Service
+              Provider (including, but not limited to, liquidated damages, and
+              disconnection, early cancellation or termination charges payable
+              to third parties) in connection with the cancelled or terminated
+              Service(s).
             </li>
           </ol>
-        </div>
-        <div>
-          <p className="text-white">
-            8.4. Upon expiration or termination, neither Party will owe the
-            other any further duties, obligations, or consideration; provided,
-            however, that expiration or termination of this Agreement will not
-            affect the rights or obligations of either Party that have arisen
-            before the date of expiration or termination, nor will the Customer
-            or Service Provider be relieved of any liabilities arising prior to
-            such termination. Service Provider will process any request for
-            disconnection or early termination by the Customer within thirty
-            (30) days or less, subject to the Customer’s payment of early
-            termination charges. The Customer must pay for Services until such
-            disconnection actually occurs if any delay in disconnection is due
-            to the actions of a third-party provider.
-          </p>
+
+          <div className=" mt-4">
+            <p>
+              Upon expiration or termination, neither Party will owe the other
+              any further duties, obligations, or consideration; provided,
+              however, that expiration or termination of this Agreement will not
+              affect the rights or obligations of either Party that have arisen
+              before the date of expiration or termination, nor will the
+              Customer or Service Provider be relieved of any liabilities
+              arising prior to such termination. Service Provider will process
+              any request for disconnection or early termination by the Customer
+              within thirty (30) days or less, subject to the Customer’s payment
+              of early termination charges. The Customer must pay for Services
+              until such disconnection actually occurs if any delay in
+              disconnection is due to the actions of a third-party provider.
+            </p>
+          </div>
         </div>
       </div>
 
@@ -730,8 +730,8 @@ const MSA = () => {
             time, restoration and maintenance objectives of the applicable
             Service Schedule(s). In the event of a failure to perform in
             accordance with objectives of the applicable Service Schedule(s) or
-            interruption in the Service (“Service Outage”), the Customer will be
-            entitled to a service credit as per the applicable Service
+            interruption in the Service <b>(“Service Outage”)</b> , the Customer
+            will be entitled to a service credit as per the applicable Service
             Schedule(s). Credit allowances will be measured only after Service
             Provider’s receipt of written notice of a Service Outage from the
             Customer, and will be provided via credit note only if the Customer
@@ -768,7 +768,7 @@ const MSA = () => {
             to perform routine maintenance at mutually agreeable times.
           </p>
           <p className="">
-            9.3. Notwithstanding any other provision of this Agreement, Service
+            9.. Notwithstanding any other provision of this Agreement, Service
             Provider shall have the right, from time to time, to reconfigure,
             modify, vary or otherwise alter the configuration of the Services,
             including by introducing new technology or modifying transmission
@@ -806,7 +806,7 @@ const MSA = () => {
             third party provider to timely process an application), fiber or
             cable cut, subsea fiber damage, inability to secure materials,
             labour or transportation, epidemic or catastrophe (each constituting
-            a “Force Majeure”).
+            a <b>“Force Majeure”</b>).
             <br />
           </p>
           <p className="">
@@ -1047,26 +1047,26 @@ const MSA = () => {
 
           <p className="">
             12.6 In addition to any other remedies available under this
-            Agreement, Service Provider may, in its sole discretion, suspend
-            Service upon the provision of notice if the Customer does not comply
-            with the foregoing sentences. Service Provider will have no
-            liability to the Customer’s end user, suppliers and/or customers
-            arising from or relating to this Agreement or any SOF /terms of the
-            subscription plan taken on Polarin Platform. The Customer’s
-            obligations to Service Provider under this Agreement and all SOFs/
-            terms of the subscription plan taken on Polarin Platform including,
-            without limitation, its payment obligations, are independent
-            covenants from the Customer’s ability to collect payment from its
-            end user and/or carrier customers. Service Provider will have no
-            obligation to interact with the Customer’s end users or customers
-            for any reason or purpose. Service Provider will not be liable for
-            any fraudulent use of the Services by the Customer or any third
-            party, including, but not limited to, fraudulent calls. Service
-            Provider has no obligation to investigate the authenticity of any
-            use of the Services charged to the Customer's account. The Customer
-            will protect, defend, indemnify, and hold harmless Service Provider
-            , its officers, directors, employees, contractors, and agents, from
-            and against any and all liabilities, allegations, claims, losses,
+            Agreement, Service Provider may, in its discretion, suspend Service
+            upon the provision of notice if the Customer does not comply with
+            the foregoing sentences. Service Provider will have no liability to
+            the Customer’s end user, suppliers and/or customers arising from or
+            relating to this Agreement or any SOF /terms of the subscription
+            plan taken on Polarin Platform. The Customer’s obligations to
+            Service Provider under this Agreement and all SOFs/ terms of the
+            subscription plan taken on Polarin Platform including, without
+            limitation, its payment obligations, are independent covenants from
+            the Customer’s ability to collect payment from its end user and/or
+            carrier customers. Service Provider will have no obligation to
+            interact with the Customer’s end users or customers for any reason
+            or purpose. Service Provider will not be liable for any fraudulent
+            use of the Services by the Customer or any third party, including,
+            but not limited to, fraudulent calls. Service Provider has no
+            obligation to investigate the authenticity of any use of the
+            Services charged to the Customer's account. The Customer will
+            protect, defend, indemnify, and hold harmless Service Provider , its
+            officers, directors, employees, contractors, and agents, from and
+            against any and all liabilities, allegations, claims, losses,
             damages, expenses (including reasonable attorney’s fees and costs),
             judgments, and causes of action arising from or related to any claim
             relating to or arising from this Clause and/ or the acts or
@@ -1077,12 +1077,12 @@ const MSA = () => {
 
       <div id="13. Intellectual Property Rights" className="mt-8 space-y-4">
         <h3 className="text-2xl font-semibold mb-4 ">
-          13. Intellectual Property Rights and Third-Party Intellectual Property
+          13. Intellectual Property Rights and Third Party Intellectual Property
           Infringement Claims in Respect of Service
         </h3>
         <div className="mb-4  space-y-4">
           <p className="">
-            13.1 Service Provider or its Affiliates or its vendors or
+            13.1. Service Provider or its Affiliates or its vendors or
             subcontractors will retain ownership of all Intellectual Property
             Rights in any of the Service Provider’s or its Affiliate’s or its
             vendors’ or subcontractors’ works that pre-exist or were developed
@@ -1109,7 +1109,7 @@ const MSA = () => {
           </p>
 
           <p className="">
-            13.2 Where any person makes a claim for Intellectual Property Right
+            13.2. Where any person makes a claim for Intellectual Property Right
             infringement in connection with the provision of Services or
             materials/equipment supplied by Service Provider or its Affiliate,
             Service Provider or its Affiliate must perform one of the following,
@@ -1136,9 +1136,9 @@ const MSA = () => {
             Customer and terminate such infringing Services.
           </p>
         </div>
-        <div>
+        <div className="mt-4">
           <p>
-            13.3 Service Provider or its Affiliate shall not be liable for any
+            Service Provider or its Affiliate shall not be liable for any
             infringement claims arising as a result of (a) any modification of
             the Services not made by Service Provider or its Affiliate, (b) work
             done by Service Provider or its Affiliate in accordance with
@@ -1158,7 +1158,7 @@ const MSA = () => {
         </h3>
         <div className="mb-4  space-y-4">
           <p className="">
-            14.1 The Customer will grant Service Provider , its agents and
+            14.1. The Customer will grant Service Provider , its agents and
             contractors, access to and use of the Customer’s facilities to the
             extent reasonably necessary for the installation, connection,
             removal, and maintenance of equipment, facilities, and systems
@@ -1223,30 +1223,31 @@ const MSA = () => {
             governmental agency, is otherwise required by law, or is necessary
             in any proceeding establishing or applying rights or obligations
             under this Agreement. By virtue of this Agreement, each Party (the
-            “Receiving Party”) will have access to or may learn certain
+            <b>“Receiving Party”</b>) will have access to or may learn certain
             confidential or proprietary technical, business, scientific,
             strategic, financial, legal (including intellectual property),
             commercial, regulatory, organizational, and/or operational
-            information and data of the other Party (the “Disclosing Party”),
-            including the existence of this Agreement and the terms of any
-            supplemental document, work order, SOF/ terms on Polarin Platform or
-            statement of work, whether disclosed by or on behalf of the
-            Disclosing Party and in any form of disclosure whether or not
-            expressly identified as confidential ("Confidential Information").
-            Each Party will, both during the Term and for a period of two (2)
-            years after expiration or termination of this Agreement, hold the
-            Confidential Information in confidence. Each Party will not make the
-            Confidential Information available in any form to any third party or
-            use the Confidential Information for any purpose other than the
-            implementation of this Agreement. Each Party will take all
-            reasonable steps to ensure that Confidential Information is not
-            disclosed or distributed to any other individual or entity in
-            violation of the provisions of this Agreement. Each Party will
-            disclose the Confidential Information only to those employees,
-            directors, officers, agents, professional advisers or consultants
-            who need to know the Confidential Information for the purpose of any
-            business interaction between the Parties and who are bound in
-            writing to observe the terms and conditions of this Clause 16.
+            information and data of the other Party (the{" "}
+            <b>“Disclosing Party”</b> ), including the existence of this
+            Agreement and the terms of any supplemental document, work order,
+            SOF/ terms on Polarin Platform or statement of work, whether
+            disclosed by or on behalf of the Disclosing Party and in any form of
+            disclosure whether or not expressly identified as confidential{" "}
+            <b>("Confidential Information")</b>. Each Party will, both during
+            the Term and for a period of two (2) years after expiration or
+            termination of this Agreement, hold the Confidential Information in
+            confidence. Each Party will not make the Confidential Information
+            available in any form to any third party or use the Confidential
+            Information for any purpose other than the implementation of this
+            Agreement. Each Party will take all reasonable steps to ensure that
+            Confidential Information is not disclosed or distributed to any
+            other individual or entity in violation of the provisions of this
+            Agreement. Each Party will disclose the Confidential Information
+            only to those employees, directors, officers, agents, professional
+            advisers or consultants who need to know the Confidential
+            Information for the purpose of any business interaction between the
+            Parties and who are bound in writing to observe the terms and
+            conditions of this Clause 16.
           </p>
 
           <p className="">
@@ -1291,8 +1292,8 @@ const MSA = () => {
             17.1. The Customer shall not be entitled to assign its rights and
             obligations under this Agreement to any third party, without the
             prior written consent of Service Provider. Subject to applicable
-            law, Service Provider may assign this Agreement in its sole
-            discretion to any third-parties.
+            law, Service Provider may assign this Agreement in its discretion to
+            any third-parties.
           </p>
         </div>
       </div>
@@ -1369,28 +1370,28 @@ const MSA = () => {
             Service Provider ’s website.
           </p>
           <p className="">
-            19.4. All Services are subject to the terms and conditions of this
+            19.4 All Services are subject to the terms and conditions of this
             Agreement, Service Provider’s operational and service schedules,
             guides and service level agreement(s) applicable to the specific
-            Service (collectively a “Service Schedule”), the SOF/ terms of
-            subscription plan taken the Polarin Platform and any statement of
-            work or other written instrument (collectively a “SOW”) between the
-            Parties that applies to Services. Service Provider will provide the
-            Customer with the Services as described on any SOF/ terms of
-            subscription plan taken the Polarin Platform issued under this
-            Agreement, which constitute the entire agreement between the Parties
-            with respect to the subject matter of this Agreement and supersedes
-            any and all prior offers, communications, representations,
-            understandings, and agreements, whether verbal or written, made
-            between the Parties. Service Provider will not be bound by any
-            provision in any purchase order, confirmation, correspondence or
-            other communication from the Customer which is at variance with, in
-            addition to, seeks to define or clarify, and/or conflicts with any
-            provision of this Agreement, SOW, a Service Schedule, or any SOF/
-            terms of subscription plan taken the Polarin Platform , unless such
-            variance, addition, definition/clarification, or conflict is
-            specifically identified in a written agreement signed by the
-            Customer and Service Provider which expressly references the
+            Service (collectively a <b>“Service Schedule</b> ”), the SOF/ terms
+            of subscription plan taken the Polarin Platform and any statement of
+            work or other written instrument (collectively a <b> “SOW”</b>)
+            between the Parties that applies to Services. Service Provider will
+            provide the Customer with the Services as described on any SOF/
+            terms of subscription plan taken the Polarin Platform issued under
+            this Agreement, which constitute the entire agreement between the
+            Parties with respect to the subject matter of this Agreement and
+            supersedes any and all prior offers, communications,
+            representations, understandings, and agreements, whether verbal or
+            written, made between the Parties. Service Provider will not be
+            bound by any provision in any purchase order, confirmation,
+            correspondence or other communication from the Customer which is at
+            variance with, in addition to, seeks to define or clarify, and/or
+            conflicts with any provision of this Agreement, SOW, a Service
+            Schedule, or any SOF/ terms of subscription plan taken the Polarin
+            Platform , unless such variance, addition, definition/clarification,
+            or conflict is specifically identified in a written agreement signed
+            by the Customer and Service Provider which expressly references the
             appropriate provision of this Agreement, a SOW, a Service Schedule,
             and/or a SOF / terms of subscription plan taken the Polarin Platform
             Polarin Platform, as applicable. The order of precedence in
@@ -1409,13 +1410,6 @@ const MSA = () => {
             right to terminate the service upon thirty (30) days prior written
             notice to the Customer.
           </p>
-          {/* <p className="">
-            19.6. Any SOF/ CAF is signed by the Customer only. This Agreement
-            and any SOW may be executed in one or more counterparts, whether by
-            original, electronic signature, photocopy or facsimile, each of
-            which will constitute an original, but all of which will constitute
-            one and the same instrument.
-          </p> */}
           <p className="">
             19.6. Any notice given or made under to this Agreement will be
             effective if in writing and delivered by overnight courier, first
@@ -1439,11 +1433,12 @@ const MSA = () => {
             under the terms of this Agreement during the Term.
           </p>
           <p className="">
-            19.9. Provisions contained in this Agreement that by their sense and
-            context are intended to survive completion, performance,
-            termination, suspension, cancellation, or expiration of this
-            Agreement will survive.
+            19.9. Both Parties shall at their own cost obtain and maintain the
+            necessary insurance to cover all risks in respect of the provision
+            or procurement of Services, personnel, materials and equipment used
+            under the terms of this Agreement during the Term.
           </p>
+
           <p className="">
             19.10. This Agreement and all SOFs/ subscription terms of Polarin
             Platform, or any other applicable contract document that
@@ -1485,7 +1480,7 @@ const MSA = () => {
             otherwise.
           </p>
           <p className="">
-            19.12. Neither Party shall engage in any activity, practice or
+            19.11. Neither Party shall engage in any activity, practice or
             conduct any business with a Sanctioned Person. Breach of this
             covenant shall be deemed a material breach of this Agreement
             entitling the non-breaching Party to terminate the Services /
@@ -1493,7 +1488,7 @@ const MSA = () => {
             may hold under law, equity or otherwise.
           </p>
           <p className="">
-            19.13 Except as otherwise set forth herein, any amendment to or
+            19.12 Except as otherwise set forth herein, any amendment to or
             restatement of this Agreement may be adopted and be effective as an
             amendment or restatement hereto if approved by all Parties in
             writing and signed by or on behalf of each Party.
